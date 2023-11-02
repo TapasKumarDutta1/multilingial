@@ -20,13 +20,14 @@ This approach capitalizes on the strengths of both multilingual and monolingual 
 
 ## Ensemble multilingual and monolingual Results
 
- number of repetation|auc(private)|auc(public)
- |---|---|---|---
- 0|0.9449|0.9457
- 1|0.9261|0.9283
- 1|0.9459|0.9471
- 2|0.9462|0.9477
- 3|0.9474|0.9483
+| Number of Repetition | AUC (Private) | AUC (Public) |
+|----------------------|---------------|--------------|
+| 0                    | 0.9449        | 0.9457       |
+| 1                    | 0.9261        | 0.9283       |
+| 1                    | 0.9459        | 0.9471       |
+| 2                    | 0.9462        | 0.9477       |
+| 3                    | 0.9474        | 0.9483       |
+
  
 
 ## References
